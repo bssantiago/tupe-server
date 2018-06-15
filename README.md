@@ -1,4 +1,4 @@
-# URLShortener Server Steps
+# Tupe Server Steps
 
 1 - npm install
 2 - tsc
